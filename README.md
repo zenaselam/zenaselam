@@ -33,11 +33,14 @@ Skills: Spring Boot / ANGULAR / REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zenaselam&show_icons=true&count_private=true)  
 
+<!--
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zenaselam)  
+
+![Profile views](https://gpvc.arturio.dev/zenaselam)  
+-->
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=zenaselam)  
 
-![Profile views](https://gpvc.arturio.dev/zenaselam)  
 
 Contact Me:
 [LinkedIn](https://www.linkedin.com/in/zenaselam-tesfay-aa6a6085/)
