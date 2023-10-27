@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 Contact Me:
-[LinkedIn(https://www.linkedin.com/in/zenaselam-tesfay-aa6a6085/)] | [Twitter()] 
+[LinkedIn](https://www.linkedin.com/in/zenaselam-tesfay-aa6a6085/) | [Twitter()] 
 
