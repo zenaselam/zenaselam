@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, Zenaselam Tesfay
 #### Fullstack Software developer
-![Fullstack Software developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Fullstack Software developer]()
 
 I am a passionate software developer with intensive hands-on experience on multiple projects using Spring boot, MySQL, ReactJS, Angular, JavaScript, HTML, CSS, SDLC and project management. I have worked on teams and individually.    
 
